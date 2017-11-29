@@ -537,7 +537,7 @@ body {
   height: 100vh;
   position: fixed;
   top: 0;
-  left: -9rem;
+  left: 0;
   z-index: 1001;
   opacity: 0;
   width: 0;
